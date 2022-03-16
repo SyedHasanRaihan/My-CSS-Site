@@ -1,0 +1,99 @@
+body{
+    margin: 0rem;
+    text-align: center;
+    font-family: 'Merriweather' , serif;
+}
+h1{
+    margin-top: 0;
+    font-family: 'Sacramento' , cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: .5;
+}
+h2{
+    font-family: 'Montserrat' , sans-serif;
+    font-size: 2rem;
+    color: #66BFBF;
+    line-height: .5;
+}
+h3{
+    font-family: 'Montserrat' , sans-serif;
+    color: #11999E;
+    line-height: .5;
+}
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    height: 55rem;
+    padding-top: 100px;
+}
+.text{
+    padding: 17rem;
+}
+.sun{
+    position: absolute;
+    width: 10%;
+    height: auto;
+    left: 600px;
+}
+.top-cloud{
+    position: absolute;
+    width: 15%;
+    height: auto;
+    right: 200px;
+    top: 200px;
+}
+.bottom-cloud{
+    position: absolute;
+    width: 15%;
+    height: auto;
+    left: 200px;
+    bottom: 300px;
+}
+.mountain{
+    position: absolute;
+    bottom: -1rem;
+    right: 700px;
+}
+.hasan-img{
+    padding-top: 1.5em;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.giphy-embed1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.giphy-embed2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.hands{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.middle-container{
+    background-color: #F3F1F5;
+    height: 55rem;
+    padding-top:100px ;
+    position: relative;
+}
+.contact-me{
+    background-color: #F3F1F5;
+    
+
+}
+.bottom-container{
+    position: absolute;
+    bottom: 0em;
+}
